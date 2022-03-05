@@ -1,5 +1,5 @@
 {
-  "name": "@newbanker/react-native-scrollable-tab-view",
+  "name": "launchdeck-react-native-scrollable-tab-view",
   "version": "1.2.1",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NewBanker/react-native-scrollable-tab-view.git"
+    "url": "git+https://github.com/launchdeck/react-native-scrollable-tab-view.git"
   },
   "keywords": [
     "react-native-component",
@@ -32,9 +32,9 @@
   "homepage": "https://github.com/NewBanker/react-native-scrollable-tab-view#readme",
   "dependencies": {
     "@babel/runtime": "^7.12.5",
-    "@react-native-community/viewpager": "3.3.0",
     "create-react-class": "^15.7.0",
     "prop-types": "^15.6.0",
+    "react-native-pager-view": "^5.4.11",
     "react-timer-mixin": "^0.13.3"
   },
   "devDependencies": {
